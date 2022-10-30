@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
 }
-.list--card{
+.list--card {
   outline: 10px solid #655;
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
@@ -13,6 +13,6 @@
   padding: 10px;
   width: 200px;
 }
-.list--side{
-  margin: 0 60px;
+.list :nth-child(n){
+  margin: 0 60px 0 0;
 }
