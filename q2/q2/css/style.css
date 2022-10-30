@@ -10,7 +10,9 @@
   border-radius: 13px;
   background: #d2b48c;
   list-style: none;
-  margin: 30px;
   padding: 10px;
   width: 200px;
+}
+.list--side{
+  margin: 0 60px;
 }
