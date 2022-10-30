@@ -1,1 +1,39 @@
 @charset "UTF-8";
+.sub--box{
+  display: table;
+  width: 100%;
+  margin: top;
+}
+.main--area .sub--box:last-child {
+margin-top: 0;
+}
+.area--box{
+  padding: 20px;
+  display: table-cell;
+  text-align: center;
+}
+.red--box{
+  width: 300px;
+  background: #ff7b7b;
+}
+.blue--box{
+  background: #7b86ff;
+}
+.yellor--box{
+  width: 300px;
+  background: #fff27b
+}
+.green--box{
+  background: #7bff91;
+}
+.pink--box{
+  width: 400px;
+  background: #ff7be2;
+}
+.orange--box{
+  width: 400px;
+  background: #ffc67b;
+}
+.sky--blue--box{
+  background: #7bf2ff;
+}
